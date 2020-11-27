@@ -4,5 +4,5 @@ Working on:
 - AwakenCN/Almost-Famous [Almost-Famous](https://github.com/AwakenCN/Almost-Famous/)
 - AwakenCN/InChat [InChat](https://github.com/AwakenCN/InChat/)
 
-- noseparte/ThreeKingdomsStrategic [InChat](https://github.com/noseparte/ThreeKingdomsStrategic/)
+- noseparte/ThreeKingdomsStrategic [ThreeKingdomsStrategic](https://github.com/noseparte/ThreeKingdomsStrategic/)
 - 微信公众号 【简学Java】 
