@@ -2,5 +2,5 @@
 
 - :sun_with_face: AwakenCN/Almost-Famous [Almost-Famous](https://github.com/AwakenCN/Almost-Famous/)
 - :star: AwakenCN/InChat [InChat](https://github.com/AwakenCN/InChat/)
-- :triangular_flag_on_post: noseparte/ThreeKingdomsStrategic [ThreeKingdomsStrategic](https://github.com/noseparte/ThreeKingdomsStrategic/)
-- :heart: 微信公众号 【简学Java】 
+- :heart: noseparte/ThreeKingdomsStrategic [ThreeKingdomsStrategic](https://github.com/noseparte/ThreeKingdomsStrategic/)
+- :triangular_flag_on_post: 微信公众号 【简学Java】 
