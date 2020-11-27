@@ -3,4 +3,4 @@
 - :art: AwakenCN/Almost-Famous [Almost-Famous](https://github.com/AwakenCN/Almost-Famous/)
 - :blue_heart: AwakenCN/InChat [InChat](https://github.com/AwakenCN/InChat/)
 - :dart: noseparte/ThreeKingdomsStrategic [ThreeKingdomsStrategic](https://github.com/noseparte/ThreeKingdomsStrategic/)
-- :running: 微信公众号 【简学Java】 
+- :fire: WeChat Official Account 【简学Java】 
