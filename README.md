@@ -1,2 +1,5 @@
-# noseparte
-一个在帝都颠沛流离的Java开发者，对于工作和生活的感悟
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=noseparte&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+Working on:
+
+- AwakenCN/Almost-Famous [Almost-Famous](https://github.com/AwakenCN/Almost-Famous/)
+
